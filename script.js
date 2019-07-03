@@ -6,7 +6,7 @@ var $timeHeader = document.querySelector('#time-header')
 var $resultHeader = document.querySelector('#result-header')
 var $gameTime = document.querySelector('#game-time')
 
-var colors = ['red', 'blue', 'green', 'yellow', 'pink']
+var colors = ['#D4145A', '#852D91', '#D74177', '#D9E021', '#009245', '#FF5300', '#00FFFF', '#FC7D7B']
 var score = 0
 var isGameStarted = false
 
